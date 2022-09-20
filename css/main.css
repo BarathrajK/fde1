@@ -1,0 +1,13 @@
+.container{
+    width: 1100px;
+    margin: auto;
+    border: solid 2px red; 
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.benner-content{
+    height: 200px;
+    border: solid 2px green;
+}
